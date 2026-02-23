@@ -42,5 +42,5 @@ I like building things that actually work in production, not just demos.
 Currently interested in: LLM agents, robotics, computer vision, and stuff that moves.
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/gotogrub)
-
+📄 [Resume (EN)](./RESUME_EN.md) | [Резюме (RU)](./RESUME_RU.md)
 </div>
