@@ -2,7 +2,7 @@
 
 ![cyberpunk](https://i.pinimg.com/originals/d3/40/01/d34001942a1e58d0942eb560c70aeacb.gif)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9745F5&center=true&vCenter=true&width=435&lines=AI%2FML+Engineer;Voice+AI+%26+LLM+Systems;5%2B+years+of+building+stuff)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=b80d00&center=true&vCenter=true&width=435&lines=AI%2FML+Engineer;Voice+AI+%26+LLM+Systems;5%2B+years+of+building+stuff)
 
 </div>
 
