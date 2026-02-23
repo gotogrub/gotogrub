@@ -25,7 +25,7 @@ Backend developer with 5+ years of commercial experience. Progressed from web de
 
 ## Experience
 
-### Senior Backend Python Developer — Neuro.net
+### Backend Python Developer — Neuro.net
 **July 2025 — Present**
 
 Building voice AI agents for enterprise call automation:
