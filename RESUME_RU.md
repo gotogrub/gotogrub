@@ -1,6 +1,6 @@
 # Василий Лебедев
 
-**Senior Backend Python Developer | AI/ML Engineer**
+**Backend Python Developer | AI/ML Engineer**
 
 Telegram: [@gotogrub](https://t.me/gotogrub) • Email: webwork1930@gmail.com
 
