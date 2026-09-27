@@ -1,238 +1,155 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/d3/40/01/d34001942a1e58d0942eb560c70aeacb.gif" width="760" alt="Cyberpunk engineering banner" />
+<img src="./assets/profile-hero.svg" width="100%" alt="Vasily Lebedev — AI/ML Architect, Python Backend Engineer, Technical Lead, LLM/RAG, AI Agents, Robotics and Embedded Systems" />
 
-<br />
-<br />
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=B80D00&center=true&vCenter=true&width=760&lines=Production+LLM+Engineer;Python+Backend+Developer;RAG+%E2%80%A2+AI+Agents+%E2%80%A2+Automation;Learning+Robotics+%26+Computer+Vision" alt="Typing SVG" />
-
-<h1>Hi, I’m Vasily Lebedev — Python Backend Developer focused on Production LLM Systems</h1>
-
-<p>
-  I build backend and AI systems around LLMs: agents, RAG pipelines, automation tools, validators,
-  integrations, and production-oriented services that are useful outside a pretty demo.
-</p>
-
-<p>
-  <a href="https://lebedev-systems.com/contact"><img src="https://img.shields.io/badge/Hire%20me-Contact%20form-B80D00?style=for-the-badge&logo=maildotru&logoColor=white" alt="Hire me" /></a>
-  <a href="https://t.me/gotogrub"><img src="https://img.shields.io/badge/Telegram-gotogrub-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="https://huggingface.co/gotogrub"><img src="https://img.shields.io/badge/Hugging%20Face-gotogrub-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
-</p>
+<a href="https://lebedev-systems.com/"><img src="https://img.shields.io/badge/WEBSITE-lebedev--systems.com-b72816?style=for-the-badge&labelColor=080b0f" alt="Vasily Lebedev personal website" /></a>
+<a href="https://t.me/gotogrub"><img src="https://img.shields.io/badge/TELEGRAM-@gotogrub-39c8c2?style=for-the-badge&labelColor=080b0f" alt="Telegram @gotogrub" /></a>
+<a href="https://lebedev-systems.com/blog"><img src="https://img.shields.io/badge/ENGINEERING_BLOG-read-ef6c42?style=for-the-badge&labelColor=080b0f" alt="AI engineering blog" /></a>
+<a href="https://huggingface.co/gotogrub"><img src="https://img.shields.io/badge/HUGGING_FACE-gotogrub-d7b84b?style=for-the-badge&labelColor=080b0f" alt="Hugging Face profile" /></a>
 
 </div>
 
 ---
 
-## What I am best at
+## `IDENTITY // PROFILE`
 
-I am strongest in **Python backend development** and **production LLM systems**: building APIs, connecting tools, designing data flows, integrating models into business logic, and making AI features less fragile than the average “weekend prototype from hell”.
+**I' AM** a **Python backend engineer, AI/ML architect and technical leader with 5+ years of commercial software engineering experience**. I moved from web development and backend engineering into designing and shipping **production AI systems**: LLM/RAG platforms, AI agents, voice AI, Document AI, Text-to-SQL, enterprise integrations and high-load Python services.
 
-My current professional focus is not “I trained a giant model in my basement and now it has opinions about humanity”. My focus is more practical: **how to make LLM-based systems work inside real products**.
+My strongest area is the boundary between **AI and real software engineering**: turning a model or prototype into an observable, testable and maintainable production system with APIs, databases, queues, validation, fallbacks, security boundaries and clear operational ownership.
+
+I have worked on enterprise systems for **banking, telecom and fintech**, including projects associated with **VTB, Alfa-Bank, MegaFon, Beeline and Skyeng**. I also have **2+ years of CTO / technical leadership experience**, including architecture, technical roadmap, engineering processes, mentoring and translating business requirements into working systems.
+
+> **RU / Кратко:** Python-разработчик и технический лидер с 5+ годами коммерческого опыта. Специализация: production AI/ML, LLM/RAG, AI-агенты, ASR/TTS, NLU, Document AI, Text-to-SQL, FastAPI/backend, интеграции и немного embedded/robotics. Работал с enterprise-клиентами из банковского сектора, телекома и финтеха.
+
+**Availability:** project-based work, architecture reviews, AI/backend consulting and technical leadership.  
+**Fastest contact:** [Telegram @gotogrub](https://t.me/gotogrub).
+
+---
+
+## `SYSTEM MAP // WHAT I BUILD`
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Production LLM Systems</h3>
-      <ul>
-        <li>RAG pipelines for internal knowledge and business data</li>
-        <li>LLM agents with tools, validators, and fallback logic</li>
-        <li>Prompt engineering, retrieval tuning, and answer quality control</li>
-        <li>Workflow automation around CRM, support, documents, and operations</li>
-      </ul>
-      <br />
-    </td>
-    <td width="50%" valign="top">
-      <h3>Python Backend</h3>
-      <ul>
-        <li>FastAPI services and backend architecture</li>
-        <li>PostgreSQL, SQL, integrations, and automation scripts</li>
-        <li>Docker, Linux, deployment, debugging, and maintenance</li>
-        <li>Readable code, clear interfaces, and boring reliability</li>
-      </ul>
-      <br />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Machine Learning</h3>
-      <ul>
-        <li>Practical ML/NLP workflows and model evaluation</li>
-        <li>Classification, validation, metrics, and experiments</li>
-        <li>Understanding model behavior and failure modes</li>
-        <li>Interest in affective AI and controllable generation</li>
-      </ul>
-      <br />
-    </td>
-    <td width="50%" valign="top">
-      <h3>Computer Vision & Robotics</h3>
-      <ul>
-        <li>Beginner-level hands-on experience with CV and robotics topics</li>
-        <li>Strong interest in perception systems and embodied AI</li>
-        <li>Currently learning OpenCV, robotics concepts, and related math</li>
-        <li>Long-term goal: connect software intelligence with physical machines</li>
-      </ul>
-      <br />
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### `AI SYSTEMS`
+
+Production-oriented AI services rather than isolated demos.
+
+**LLM · RAG · AI Agents · LangChain · LangGraph · Qdrant · ChromaDB · Ollama · OpenAI API · Hugging Face · structured output · guardrails · evaluation · local inference**
+
+Typical work: retrieval pipelines, tool-using agents, controlled generation, multi-provider routing, local LLM deployment, business assistants and model evaluation.
+
+</td>
+<td width="50%" valign="top">
+
+### `BACKEND / PLATFORM`
+
+Backend architecture for systems that need to keep working after the demo.
+
+**Python · FastAPI · Django · DRF · asyncio · PostgreSQL · Redis · RabbitMQ · Celery · REST · WebSocket · Docker · Kubernetes · Linux · CI/CD**
+
+Typical work: microservices, asynchronous pipelines, API integrations, CRM/data flows, queues, caching, fault isolation and production reliability.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### `VOICE / DOCUMENT / DATA`
+
+AI pipelines connected to real business processes.
+
+**ASR · TTS · NLU · OCR · OpenCV · Document AI · Text-to-SQL · ETL · analytics · CRM integrations**
+
+Experience includes voice agents, document processing, information extraction, conversational systems, SQL generation and automation around enterprise data.
+
+</td>
+<td width="50%" valign="top">
+
+### `EMBEDDED / ROBOTICS / UAV`
+
+Software that eventually has to interact with actual physics. A deeply inconvenient but interesting constraint.
+
+**C/C++ · basic Assembly · embedded Linux · UART · I2C · SPI · CAN · ArduPilot · SITL · Matek H743-class FC · telemetry · sensors · actuators**
+
+Hands-on work includes flight-controller configuration, SITL validation, sensor/RC/ESC integration, failsafe logic, telemetry, DataFlash analysis and integration of robotics hardware with Python/AI services.
+
+</td>
+</tr>
 </table>
 
 ---
 
-## Tech stack
+## `SELECTED SYSTEMS // PUBLIC PROJECTS`
 
-<div align="center">
+| System | What it is | Engineering focus |
+|---|---|---|
+| **[ScriptedLLM](https://github.com/gotogrub/ScriptedLLM)** | Constrained LLM agent framework for business chatbots where the model must follow a defined scenario and factual boundary. | Python, async architecture, FSM, validators, knowledge base, multi-provider LLM, Ollama/OpenAI/Anthropic |
+| **[PhonePilot](https://github.com/gotogrub/PhonePilot)** | Fully local Android AI agent that sees the screen through a VLM and executes actions through ADB. | VLM agents, FastAPI, WebSocket, multi-device automation, local inference, Docker |
+| **[GLaDOS](https://github.com/gotogrub/GLaDOS)** | Local multimodal voice assistant with Russian ASR/TTS, vision, LLM inference and an asynchronous robot mode. | ASR/TTS, local LLM, vision, asyncio, EventBus, streaming speech, robotics |
+| **[AgentDesk](https://github.com/gotogrub/AgentDesk)** | Local command center for running multiple Codex CLI engineering tasks in parallel. | Agent orchestration, Git worktrees, FastAPI, process management, logs, diff/review workflow |
+| **[Marketing AI Agent](https://github.com/gotogrub/marketing-ai-agent)** | Marketing analytics agent combining document retrieval, coded metrics and attribution with LLM explanations. | RAG, analytics, attribution, Hugging Face / GigaChat providers, SQLite, local KB |
+| **[KR580VM80 Emulator](https://github.com/gotogrub/Emulator-KR580M80)** | Low-level Assembly project for the KR580VM80 / Intel 8080 architecture. | Assembly, registers, I/O ports, video buffer, low-level programming |
 
-### Main tools
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-
-### AI / ML ecosystem
-
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-
-</div>
+> More commercial systems and case studies are described on **[lebedev-systems.com](https://lebedev-systems.com/)** and in the **[engineering blog](https://lebedev-systems.com/blog)**. Some enterprise implementations are not public.
 
 ---
 
-## Q / A
+## `PRODUCTION EXPERIENCE // SIGNAL, NOT DEMOWARE`
 
-<table>
-  <tr>
-    <td width="38%" valign="top">
-      <h3>What kind of engineer am I?</h3>
-    </td>
-    <td width="62%" valign="top">
-      <p>
-        A backend engineer who moved deeply into AI systems. I like when models are not isolated magic boxes,
-        but parts of useful software: APIs, tools, retrieval, validation, monitoring, and business workflows.
-      </p>
-      <br />
-    </td>
-  </tr>
-  <tr>
-    <td width="38%" valign="top">
-      <h3>What do I want to build?</h3>
-    </td>
-    <td width="62%" valign="top">
-      <p>
-        Intelligent assistants, AI agents, internal automation systems, RAG platforms, and eventually robots.
-        Not toy robots that blink sadly in a corner, but machines that perceive, reason, act, and help people.
-      </p>
-      <br />
-    </td>
-  </tr>
-  <tr>
-    <td width="38%" valign="top">
-      <h3>Why robotics?</h3>
-    </td>
-    <td width="62%" valign="top">
-      <p>
-        I love robots and want to dedicate a serious part of my life to them. Robotics feels like the place where
-        software finally stops living only inside screens and starts touching the real world. That is terrifying,
-        beautiful, and exactly why it is interesting.
-      </p>
-      <br />
-    </td>
-  </tr>
-  <tr>
-    <td width="38%" valign="top">
-      <h3>What am I studying now?</h3>
-    </td>
-    <td width="62%" valign="top">
-      <p>
-        I am studying machine learning, LLM systems, computer vision, robotics basics, and neuroscience.
-        I am especially interested in the future symbiosis of machine intelligence and organic life:
-        perception, emotions, adaptation, embodiment, and human-machine cooperation.
-      </p>
-      <br />
-    </td>
-  </tr>
-  <tr>
-    <td width="38%" valign="top">
-      <h3>Where am I strongest today?</h3>
-    </td>
-    <td width="62%" valign="top">
-      <p>
-        Production-oriented LLM and backend work. I am honest about my current level: I am not presenting myself
-        as a senior ML researcher or robotics veteran. My strongest area is building useful software around AI,
-        while actively growing deeper into ML, CV, neuroscience, and robotics.
-      </p>
-      <br />
-    </td>
-  </tr>
-</table>
+My work has included **production voice AI, LLM/RAG services, Text-to-SQL, document automation, CRM integrations, backend microservices and internal AI tooling**. The systems I worked on were used in enterprise environments where latency, access control, observability, fallbacks and failure recovery mattered as much as model quality.
+
+I prefer boring, explicit reliability over magical thinking. The model is one component of the system. It does not get to become the architecture just because somebody discovered a new API endpoint.
 
 ---
 
-## What teams can expect from me
+## `TECHNICAL LEADERSHIP // END-TO-END`
 
-- **Production mindset.** I care about how the system behaves after the demo: logs, fallbacks, tests, integrations, data quality, and maintenance.
-- **Backend discipline.** I know that an AI feature still needs APIs, schemas, storage, access control, deployment, and error handling. Sadly, the model will not magically fix your database. The bastard refuses.
-- **Clear communication.** I can explain trade-offs, document decisions, and keep technical work connected to product goals.
-- **Fast learning.** I am actively expanding from backend and LLM engineering into deeper ML, computer vision, robotics, and neuroscience.
+I have experience owning systems from the initial business problem to production: requirements discovery, architecture, technical decomposition, implementation, code review, deployment, observability and further iteration.
 
----
+My technical leadership background includes **architecture reviews, product/engineering roadmaps, mentoring developers, defining engineering standards, reducing technical risk and balancing MVP speed against long-term maintainability**.
 
-## Selected directions
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>LLM / RAG</h3>
-      <p>Retrieval-augmented generation, tool-using agents, validators, business assistants, and AI automation.</p>
-      <br />
-    </td>
-    <td width="33%" valign="top">
-      <h3>Backend APIs</h3>
-      <p>Python services, FastAPI applications, SQL logic, integrations, CRM workflows, and deployment-ready systems.</p>
-      <br />
-    </td>
-    <td width="33%" valign="top">
-      <h3>Robotics Path</h3>
-      <p>Beginner-level CV and robotics learning path with a long-term focus on embodied AI and human-machine symbiosis.</p>
-      <br />
-    </td>
-  </tr>
-</table>
+I am especially useful when a project sits between several domains at once: **AI + backend + data + infrastructure + integrations**, or when a prototype needs to stop behaving like a prototype.
 
 ---
 
-## Links
+## `STACK // INDEX`
 
-- **My blog:** https://lebedev-systems.com/blog
-- **Hugging Face:** https://huggingface.co/gotogrub
+**Languages & data:** Python, SQL, C++, JavaScript, TypeScript, PHP, basic Assembly · PostgreSQL, Redis, MySQL, SQLite, Qdrant, ChromaDB
+
+**Backend:** FastAPI, Django, DRF, asyncio, Pydantic, SQLAlchemy, Alembic, REST, WebSocket, Node.js
+
+**AI / ML:** LLM, RAG, AI agents, LangChain, LangGraph, PyTorch, Hugging Face, Ollama, OpenAI API, ASR, TTS, NLU, OCR, OpenCV, YOLO, VLM, Text-to-SQL, evaluation and guardrails
+
+**Infrastructure:** Docker, Docker Compose, Kubernetes, Helm, Linux, Nginx, Git, CI/CD, RabbitMQ, Celery, Pytest
+
+**Observability:** OpenTelemetry, Prometheus, Grafana, Jaeger, Langfuse, structured logging
+
+**Embedded / UAV:** C/C++, embedded Linux, UART, I2C, SPI, CAN, ArduPilot, SITL, Matek H743-class flight controllers, telemetry, sensor/actuator integration, failsafe validation
+
+---
+
+## `CURRENT INTERESTS // R&D`
+
+I am interested in **humanoid robotics, embodied AI, artificial life, low-level systems and human-machine interaction**. Long term, I want to work on systems where perception, language models, control software and physical machines are not separate disciplines but parts of one architecture.
+
+That is also why I keep one foot in backend/AI infrastructure and another in embedded systems, flight controllers and robotics. Eventually the software has to leave the browser and deal with motors, sensors, latency and gravity. Gravity remains annoyingly production-critical.
 
 ---
 
 <div align="center">
 
-<h2>Looking for a Python backend developer who can build production LLM systems?</h2>
+### `OPEN CHANNEL // PROJECTS & CONSULTING`
 
-<p>
-  I am open to roles and projects involving <b>AI engineering</b>, <b>LLM systems</b>,
-  <b>RAG</b>, <b>backend development</b>, automation, and applied ML.
-</p>
+I am currently open **only to project work, architecture and consulting engagements** around AI systems, Python backend, technical leadership and robotics/embedded integrations.
 
-<p>
-  <a href="https://lebedev-systems.com/contact"><b>Hire me / Contact form</b></a>
-  ·
-  <a href="https://t.me/gotogrub"><b>Contact me in Telegram</b></a>
-  ·
-  <a href="https://x.com/gotogrub"><b>Contact me in Twitter/X</b></a>
-</p>
+<a href="https://t.me/gotogrub"><img src="https://img.shields.io/badge/FASTEST_CONTACT-TELEGRAM_@gotogrub-39c8c2?style=for-the-badge&labelColor=080b0f" alt="Contact Vasily Lebedev on Telegram" /></a>
 
-<br />
+**[Website](https://lebedev-systems.com/)** · **[Blog](https://lebedev-systems.com/blog)** · **[GitHub](https://github.com/gotogrub)** · **[Hugging Face](https://huggingface.co/gotogrub)**
 
-<sub>Machines that perceive. Software that survives production. Less bullshit, more shipped systems.</sub>
+<sub>AI systems that work. Backend that survives production. Machines that eventually move.</sub>
 
 </div>
