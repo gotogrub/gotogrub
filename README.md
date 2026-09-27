@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-hero.svg" width="100%" alt="Vasily Lebedev — AI/ML Architect, Python Backend Engineer, Technical Lead, LLM/RAG, AI Agents, Robotics and Embedded Systems" />
+<img src="./assets/dream_template.png" width="100%" alt="Vasily Lebedev — AI/ML Architect, Python Backend Engineer, Technical Lead, LLM/RAG, AI Agents, Robotics and Embedded Systems" />
 
 <br/>
 
